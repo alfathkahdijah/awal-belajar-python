@@ -1,0 +1,19 @@
+#program ini untuk menghitung luas segi empat
+#diketahui: 
+#	    panjang dan lebar segiempat. 
+#dicari: 
+#	 berapa luas segi empat?
+#cara menghitung:
+#     luas segi empat = panjang x lebar
+#nah, buat program pythonnya.
+
+#baris perintahnya seperti ini maksudnya:
+buat variabel panjang, beri nilai apa aja
+buat variabel lebar, beri nilai apa aja
+buat variabel luas, beri nilai panjang x lebar
+tampilkan nilai variabel luas
+
+#BONUS:
+kalau mau, menampilkannya pakai kata2 bagus. misalnya,
+PROGRAM INI UNTUK MENGHITUNG LUAS SEGI EMPAT
+Diketahui, panjang=??? dan lebar=???, maka luasnya=panjang x lebar=???
