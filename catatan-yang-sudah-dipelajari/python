@@ -1,0 +1,25 @@
+Kak, disini kakak catat perintah python apa aja yang sudah kakak pelajari.
+dan juga kakak jelaskan manfaat dari perintah tersebut.
+
+Ini abi kasih bantuan ya, nanti kakak tambahin sendiri kalau Abi sudah ajari
+===
+
+1. Mendefinisikan variabel
+Variabel itu nama lain suatu nilai yang dikenali oleh Python
+Misal,
+
+nama = 'AlFath'
+panjang = 10
+lebar = 5
+luas = panjang * lebar
+
+Jadi, nanti Python akan mengenali kata-kata: panjang, lebar dan luas
+
+
+2. print
+Manfaat
+    Menampilkan suatu nilai, nilai variabel atau string ke layar terminal
+Contoh:
+    print 5
+    print panjang
+    print 'Panjangnya adalah', panjang

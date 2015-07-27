@@ -1,0 +1,26 @@
+Oke kak, disini kakak catat perintah-perintah di terminal yang sudah kakak pelajari.
+Abi catat aja yang kemarin ya, kakak nanti yang jelasin kalau ada file yang baru
+===
+
+1. pwd
+Menampilkan nama folder yang aktif pada saat ini
+contoh: $ pwd
+hasil:  /Users/alfath/code
+
+2. ls
+Menampilkan isi dari direktori yang akfit pada saat ini
+contoh: $ ls
+Documents Pictures ...
+
+2. cd
+Jika mengetikkan perintah cd saja, maka akan pergi ke direktori Home (/Users/alfath),
+tapi jika diberikan nama direktorinya, maka akan pergi ke direktori tersebut
+contoh: $ cd
+contoh: $ cd code
+
+3. cat
+Menampilkan isi dari file
+contoh:
+$ cd
+$ cd .ssh
+$ cat id_rsa.pub
