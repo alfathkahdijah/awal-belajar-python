@@ -8,14 +8,14 @@ Tentu, kakak enggak usah menuliskan nomor barisnya ya: nanti malah error
 """
 
 1. nama = raw_input('Siapa namamu?')
-2. print 'Halo ', nama, 'apa kabar?'
+2. print 'Halo', nama, 'apa kabar?'
 
-Coba dua baris itu, dijalakan ya.
+Coba dua baris itu, dijalankan ya.
 
 Kalau sudah, jawab pertanyaan ini:
 1. Apa manfaat perintah raw_input?
 
-Tuliskan jawabannya di file awal-belajar-python/catatan-yang-sudah-dipelajari/python
+Tuliskan jawabannya di file awal-belajar-python/catatan/python
 Setelah selesai, jangan lupa di COMMIT dan PUSH ke Github (COMMAND + K)
 
 PENTING:
