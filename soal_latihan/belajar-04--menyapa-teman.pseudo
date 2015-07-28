@@ -1,0 +1,22 @@
+"""
+Halo kakak, ini soal yang baru ya: abi tulis setelah kita tadi makan pizza di rumah :D
+Coba perhatikan dulu nama file python yang sekarang: sudah abi ganti namanya supaya lebih mudah diingat ya.
+
+Nah, untuk mengerjakan soal ini, buat file python dengan nama "belajar-04--menyapa-teman.py"
+Isi dari program ke-4 kita ini sederhana saja, abi tunjukkan nomor baris, beserta maksudnya di bawah ini
+Tentu, kakak enggak usah menuliskan nomor barisnya ya: nanti malah error
+"""
+
+1. nama = raw_input('Siapa namamu?')
+2. print 'Halo ', nama, 'apa kabar?'
+
+Coba dua baris itu, dijalakan ya.
+
+Kalau sudah, jawab pertanyaan ini:
+1. Apa manfaat perintah raw_input?
+
+Tuliskan jawabannya di file awal-belajar-python/catatan-yang-sudah-dipelajari/python
+Setelah selesai, jangan lupa di COMMIT dan PUSH ke Github (COMMAND + K)
+
+PENTING:
+Nanti fungsi raw_input ini akan banyaaak sekali gunanya untuk membuat program Python yang lebih hebat lagi!
