@@ -1,0 +1,15 @@
+"""
+Halo kakaaak.
+Nah, karena tadi kita sudah tau cara menggunakan say u/ bersuara, maka sekarang kita pergunakan
+perintah say itu ya
+
+Perintah say itu bukan perintah python, tapi perintah yang ada di OSX (sistem operasi yang kakak pakai)
+Maka, untuk dapat menggunakan perintah say pada Python berikut caranya:
+"""
+
+1. import os
+2. os.system('say halo kakak')
+
+sudah gitu aja
+Nah, coba kita ubah belajar-04 yang dari awalnya cuma menampilkan tulisan di layar,
+menjadi bersuara. Kita buat file belajar-05 ya, isinya dimulai dari belajar-04.
