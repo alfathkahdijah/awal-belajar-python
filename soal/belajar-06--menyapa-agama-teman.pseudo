@@ -1,0 +1,30 @@
+"""
+Disini kita akan menyapa teman, berdasarkan agamanya.
+Jadi, kalau teman agamanya Islam, akan dijawab:
+"Halo (teman), jangan lupa sholat di masjid ya"
+
+Kalau Hindu, akan dijawab:
+"Halo (teman), jangan lupa sholat di Pura ya"
+
+dan sebagainya, okay?
+
+Untuk kodenya, ikutin program yang abi contohin ya.
+Inget, kemarin-kemarin kita sudah tahu ini:
+    - print
+    - raw_input
+    - import
+
+sekarang ada yang baru: IF (jika)
+"""
+
+1. nama = raw_input('Siapa namamu? ')
+2. agama = raw_input('Apa agamamu? ')
+3. if agama == 'islam':
+4.      print 'Halo', nama, 'jaga sholat di masjid yaa'
+5. if agama == 'kristen':
+6.      print 'Halo', nama, 'kamu pasti tiap hari minggu ke gereja yaa'
+
+dan seterusnya untuk agama Buddha dan Hindu.
+Selain itu, coba lihat di direktori flowchart: disitu ada penjelasan cara kerja program ini dengan gambar
+
+BONUS: cobaa ganti print dengan say spy dia bisa mengucapkan kata-kata itu
